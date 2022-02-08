@@ -1,13 +1,13 @@
-package com.atguigu.gulimall.gulimallorder;
+package com.atguigu.gulimall.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GulimallOrderApplication {
+public class OrderApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GulimallOrderApplication.class, args);
+        SpringApplication.run(OrderApplication.class, args);
     }
 
 }

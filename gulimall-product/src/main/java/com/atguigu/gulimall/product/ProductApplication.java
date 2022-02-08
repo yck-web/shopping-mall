@@ -1,13 +1,13 @@
-package com.atguigu.gulimall.gulimaliware;
+package com.atguigu.gulimall.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GulimaliWareApplication {
+public class ProductApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GulimaliWareApplication.class, args);
+        SpringApplication.run(ProductApplication.class, args);
     }
 
 }

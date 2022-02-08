@@ -1,10 +1,10 @@
-package com.atguigu.gulimall.gulimaliware;
+package com.atguigu.gulimall.product;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GulimaliWareApplicationTests {
+class GulimallProductApplicationTests {
 
     @Test
     void contextLoads() {
